@@ -24,11 +24,13 @@ Since the bookings increase on good weather days with hotter temperature, the co
 
 An R-Squared value of 0.82 on the test data signifies that the model is a very good predictor and 82% of the variance is captured by the model.
 
-Technologies Used
+# Technologies Used
 Pandas
 Seaborn
 Matplotlib
-Acknowledgements
+SciKit Learn 
+
+# Acknowledgements
 Give credit here.
 
 
