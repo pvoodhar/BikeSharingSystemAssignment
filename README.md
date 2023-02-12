@@ -19,3 +19,18 @@ Based on various meteorological surveys and people's styles, the service provide
 ## Business Goal:
 You are required to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market. 
 
+# Conclusion
+Since the bookings increase on good weather days with hotter temperature, the company must increase their bike availibilty and promotions during the summer months to further increase their booking count.
+
+An R-Squared value of 0.82 on the test data signifies that the model is a very good predictor and 82% of the variance is captured by the model.
+
+Technologies Used
+Pandas
+Seaborn
+Matplotlib
+Acknowledgements
+Give credit here.
+
+
+Contact
+Created by [@pvoodhar] - feel free to contact me!
